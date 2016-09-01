@@ -1,9 +1,6 @@
 # Bounce Around #
 
-  
-Bounce around is an open source mobile game that is developped in Visual C# using the Unity3D engine.
-
-
+**Bounce around is a mobile game that is developped in Visual C# using the Unity3D engine.**
 
 ### Checklist of features to implement ###
 
