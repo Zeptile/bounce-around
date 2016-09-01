@@ -1,11 +1,7 @@
 # README #
 
+Bounce around
 
- _                 _              
-|_) _    __  _ _  |_|___    __  _|
-|_)(_)|_|| |(_(/_ | ||(_)|_|| |(_|
-
-  
 This project is awesome, if you dont like it; fuck u
 
 ### What is this repository for? ###
