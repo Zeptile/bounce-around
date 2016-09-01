@@ -1,14 +1,9 @@
-# README #
+# Bounce Around #
 
-Bounce around
+  
+Bounce around is an open source mobile game that is developped in Visual C# using the Unity3D engine.
 
-This project is awesome, if you dont like it; fuck u
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Checklist of features to implement ###
 
