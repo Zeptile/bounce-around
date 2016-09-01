@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounce-around.CSharp", "bounce-around.CSharp.csproj", "{499C60CC-2BCB-D834-C334-257DE8F52085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounce-around.CSharp.Editor", "bounce-around.CSharp.Editor.csproj", "{D6661CE4-90DF-7801-664E-8FC25AA8735D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499C60CC-2BCB-D834-C334-257DE8F52085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499C60CC-2BCB-D834-C334-257DE8F52085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499C60CC-2BCB-D834-C334-257DE8F52085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499C60CC-2BCB-D834-C334-257DE8F52085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6661CE4-90DF-7801-664E-8FC25AA8735D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6661CE4-90DF-7801-664E-8FC25AA8735D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6661CE4-90DF-7801-664E-8FC25AA8735D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6661CE4-90DF-7801-664E-8FC25AA8735D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
