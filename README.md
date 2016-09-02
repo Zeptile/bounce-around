@@ -5,11 +5,11 @@
 ### Checklist of features to implement ###
 
 * Database configuration
-* Settings GUI - Done
+* Settings GUI  ✓
 * Google play implementation
 * Ads implementation (ChartBoosts)
 * Add demo levels
-* Planet picker
+* Planet picker  ✓
 * Sounds implementation
 * Design overlook
 
